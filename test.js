@@ -9,6 +9,6 @@ testDiv.style.bottom = '20px';
 testDiv.style.right = '20px';
 testDiv.style.backgroundColor = 'green';
 testDiv.style.color = 'white';
-testDiv.style.padding = '10px';
+testDiv.style.padding = '11px';
 testDiv.style.borderRadius = '5px';
 document.body.appendChild(testDiv);
